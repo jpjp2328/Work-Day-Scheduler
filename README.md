@@ -32,10 +32,21 @@ THEN the saved events persist
 - Created necessary assets and script folders and a copy of html/css started codes
 
 ## Writing the Script
-- Using Jquery and Moments to display the date in selected format
-- Create a new row of text box for every hour using loops and appending elements
-- 
+- Used Jquery and Moments to display the date in selected format
+- Created a new row of text box for every hour using loops and appending elements
+- Colour coded the timeblocks with css past, present, future to indicate the current hour
+- Created function to save event information that the user inputted onto their local storage
+- Created a function to save event list when the page is reloaded
+
+## Final Product
+- Screenshot
+- Link
 ----------------------------------
 ### Notes
 - Date using moments
-- Saving to local storage, using JQuery
+- Saving to local storage
+- Use of Jquery
+
+### Improvements can be implemeneted
+- Css styling 
+- Real time with seconds displayed using serverside API's
