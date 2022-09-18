@@ -39,9 +39,13 @@ THEN the saved events persist
 - Created a function to save event list when the page is reloaded
 
 ## Final Product
-- Screenshot
-- Link
+
+![](assets/images/screenshot.png)
+
+- http://jpjp2328.github.io/Work-Day-Scheduler
+
 ----------------------------------
+
 ### Notes
 - Date format using moments
 - Saving to local storage
