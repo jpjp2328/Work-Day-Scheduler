@@ -1,4 +1,4 @@
-## Work-Day-Scheduler
+# Work-Day-Scheduler
 
 Creating a calendar application that allows user to save events for each hour of the day.
 
@@ -31,8 +31,11 @@ THEN the saved events persist
 - Created repository and cloned to work on local device
 - Created necessary assets and script folders and a copy of html/css started codes
 
-
+## Writing the Script
+- Using Jquery and Moments to display the date in selected format
+- Create a new row of text box for every hour using loops and appending elements
+- 
 ----------------------------------
-# Notes
+### Notes
 - Date using moments
 - Saving to local storage, using JQuery
