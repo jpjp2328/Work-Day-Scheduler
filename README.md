@@ -40,7 +40,7 @@ THEN the saved events persist
 
 ## Final Product
 
-![](assets/images/screenshot.png)
+![](Assets/images/screenshot.png)
 
 - http://jpjp2328.github.io/Work-Day-Scheduler
 
