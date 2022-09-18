@@ -43,9 +43,9 @@ THEN the saved events persist
 - Link
 ----------------------------------
 ### Notes
-- Date using moments
+- Date format using moments
 - Saving to local storage
-- Use of Jquery
+- Use Jquery and moments
 
 ### Improvements can be implemeneted
 - Css styling 
